@@ -2,9 +2,9 @@
 MaletOS is an Operating System I made my self using Turbowarp. I started a few years ago and now have finally finished making the first version public for anyone who wants to try it.
 
 Installation:
-To install MaletOS, simply download the iso (i'm trying to make the iso be smaller, i swear, but right now it's like 14gb so you'll need a 16gb USB-Drive).
+To install MaletOS, simply download debian-live-13.6.0-amd64-xfce.iso (That's the version that works 100% of the time, and i know that it works).
 Then you can use a software like Rufus to flash the iso onto the USB.
-About approximately 20 minutes it should be done and you can go try it out on your system.
+After a few minutes it should be flashed, then delete everything in it (remember to show hidden folders and delete those too) then copy everything in the MaletOS Zip file (including hidden folders if there are any), and after a few more minutes, it should finish copying and it should work! Have FUNNN!!
 
 Features:
 MaletOS is a LIVE BOOT ONLY Operating System (at least for now), and does not have an installation.
